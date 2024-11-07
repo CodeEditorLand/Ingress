@@ -4,7 +4,7 @@ account_id = "ecc5b1147fe2b96b423abb0717c0a395"
 compatibility_date = "2024-01-29"
 compatibility_flags = ["nodejs_compat"]
 keep_vars = true
-route = { pattern = "ingress.land.playform.cloud", custom_domain = true, zone_name = "playform.cloud" }
+route = { pattern = "ingress.land.PlayForm.LTD", custom_domain = true, zone_name = "PlayForm.LTD" }
 send_metrics = false
 tsconfig = "./tsconfig.json"
 workers_dev = false
