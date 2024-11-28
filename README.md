@@ -8,7 +8,7 @@ First, install the `Ingest` worker like so:
 npm install -D -E @codeeditorland/ingress
 ```
 
-[Ingest]: https://npmjs.org/@codeeditorland/ingress
+[Ingest]: HTTPS://npmjs.org/@codeeditorland/ingress
 
 ## Changelog
 
