@@ -5,11 +5,11 @@
 	"description": "🥛 Ingress —",
 	"homepage": "https://Ingress.Editor.Land",
 	"bugs": {
-		"url": "HTTPS://GitHub.Com/CodeEditorLand/DependencyLandIngress/issues"
+		"url": "HTTPS://GitHub.Com/CodeEditorLand/Ingress/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+HTTPS://github.com/CodeEditorLand/DependencyLandIngress.git"
+		"url": "git+HTTPS://github.com/CodeEditorLand/Ingress.git"
 	},
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
