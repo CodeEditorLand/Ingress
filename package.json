@@ -19,8 +19,8 @@
 		"@typescript-eslint/eslint-plugin": "8.17.0",
 		"@typescript-eslint/parser": "8.17.0",
 		"eslint": "9.16.0",
-		"miniflare": "3.20241106.2",
-		"wrangler": "3.92.0"
+		"miniflare": "3.20241205.0",
+		"wrangler": "3.93.0"
 	},
 	"homepage": "https://Ingress.Editor.Land",
 	"license": "SEE LICENSE IN LICENSE",
