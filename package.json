@@ -24,7 +24,7 @@
 		"prepublishOnly": "Build 'Source/**/*.ts' --ESBuild Configuration/ESBuild.ts"
 	},
 	"dependencies": {
-		"@codeeditorland/common": "0.0.1",
+		"@codeeditorland/common": "0.0.6",
 		"itty-router": "6.0.0"
 	},
 	"devDependencies": {
