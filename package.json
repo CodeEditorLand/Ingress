@@ -3,7 +3,7 @@
 	"version": "0.0.1",
 	"private": false,
 	"description": "🥛 Ingress —",
-	"homepage": "https://Ingress.Editor.Land",
+	"homepage": "HTTPS://Ingress.Editor.Land",
 	"bugs": {
 		"url": "HTTPS://GitHub.Com/CodeEditorLand/Ingress/issues"
 	},
@@ -15,7 +15,7 @@
 	"author": {
 		"name": "Nikola Hristov",
 		"email": "Nikola@PlayForm.LTD",
-		"url": "https://nikolahristov.tech"
+		"url": "HTTPS://nikolahristov.tech"
 	},
 	"type": "module",
 	"main": "./Target/Variable/Worker.js",
