@@ -31,8 +31,8 @@
 		"@cloudflare/workers-types": "4.20241230.0",
 		"@playform/build": "0.2.1",
 		"@types/dotenv": "8.2.3",
-		"@typescript-eslint/eslint-plugin": "8.19.0",
-		"@typescript-eslint/parser": "8.19.0",
+		"@typescript-eslint/eslint-plugin": "8.19.1",
+		"@typescript-eslint/parser": "8.19.1",
 		"eslint": "9.17.0",
 		"miniflare": "3.20241218.0",
 		"wrangler": "3.99.0"
