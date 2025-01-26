@@ -1,4 +1,4 @@
-# 🥛 [Ingest] —
+# [Ingest] 🥛
 
 ## 🚀 Installation
 
