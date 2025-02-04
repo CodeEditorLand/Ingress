@@ -1,4 +1,4 @@
-import type { BuildOptions } from "esbuild";
+import type { BuildOptions, Plugin } from "esbuild";
 
 export default {
 	color: true,
@@ -28,7 +28,7 @@ export default {
 					}
 				});
 			},
-		},
+		} as Plugin,
 	],
 	define: {
 		"process.env.VERSION_PACKAGE": `'${
