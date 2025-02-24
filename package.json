@@ -33,7 +33,7 @@
 		"@types/dotenv": "8.2.3",
 		"@typescript-eslint/eslint-plugin": "8.24.1",
 		"@typescript-eslint/parser": "8.24.1",
-		"eslint": "9.20.1",
+		"eslint": "9.21.0",
 		"miniflare": "3.20250214.0",
 		"wrangler": "3.109.2"
 	},
