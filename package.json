@@ -28,14 +28,14 @@
 		"itty-router": "6.0.0"
 	},
 	"devDependencies": {
-		"@cloudflare/workers-types": "4.20250514.0",
+		"@cloudflare/workers-types": "4.20250517.0",
 		"@playform/build": "0.2.4",
 		"@types/dotenv": "8.2.3",
 		"@typescript-eslint/eslint-plugin": "8.32.1",
 		"@typescript-eslint/parser": "8.32.1",
-		"eslint": "9.26.0",
-		"miniflare": "4.20250508.0",
-		"wrangler": "4.14.4"
+		"eslint": "9.27.0",
+		"miniflare": "4.20250508.2",
+		"wrangler": "4.15.2"
 	},
 	"publishConfig": {
 		"access": "public"
