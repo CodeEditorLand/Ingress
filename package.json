@@ -28,12 +28,20 @@
 		"itty-router": "6.0.0"
 	},
 	"devDependencies": {
+<<<<<<< HEAD
 		"@cloudflare/workers-types": "4.20250517.0",
+=======
+		"@cloudflare/workers-types": "4.20250515.0",
+>>>>>>> dc7dc7c36c42e855a70d1d6dd7b2107ea8e44ff1
 		"@playform/build": "0.2.4",
 		"@types/dotenv": "8.2.3",
 		"@typescript-eslint/eslint-plugin": "8.32.1",
 		"@typescript-eslint/parser": "8.32.1",
+<<<<<<< HEAD
 		"eslint": "9.27.0",
+=======
+		"eslint": "9.26.0",
+>>>>>>> dc7dc7c36c42e855a70d1d6dd7b2107ea8e44ff1
 		"miniflare": "4.20250508.2",
 		"wrangler": "4.15.2"
 	},
