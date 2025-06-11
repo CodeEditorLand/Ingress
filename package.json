@@ -28,11 +28,11 @@
 		"itty-router": "6.0.0"
 	},
 	"devDependencies": {
-		"@cloudflare/workers-types": "4.20250607.0",
+		"@cloudflare/workers-types": "4.20250610.0",
 		"@playform/build": "0.2.4",
 		"@types/dotenv": "8.2.3",
-		"@typescript-eslint/eslint-plugin": "8.33.1",
-		"@typescript-eslint/parser": "8.33.1",
+		"@typescript-eslint/eslint-plugin": "8.34.0",
+		"@typescript-eslint/parser": "8.34.0",
 		"eslint": "9.28.0",
 		"miniflare": "4.20250525.1",
 		"wrangler": "4.19.1"
