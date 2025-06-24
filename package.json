@@ -32,7 +32,7 @@
 		"@playform/build": "0.2.4",
 		"@types/dotenv": "8.2.3",
 		"@typescript-eslint/eslint-plugin": "8.34.1",
-		"@typescript-eslint/parser": "8.34.1",
+		"@typescript-eslint/parser": "8.35.0",
 		"eslint": "9.29.0",
 		"miniflare": "4.20250617.1",
 		"wrangler": "4.21.0"
