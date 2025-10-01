@@ -34,7 +34,7 @@
 		"@typescript-eslint/eslint-plugin": "8.45.0",
 		"@typescript-eslint/parser": "8.44.1",
 		"eslint": "9.36.0",
-		"miniflare": "4.20250924.0",
+		"miniflare": "4.20250927.0",
 		"wrangler": "4.40.2"
 	},
 	"publishConfig": {
